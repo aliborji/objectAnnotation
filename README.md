@@ -1,6 +1,8 @@
 # objectAnnotation
 
-## This is a modofication of the repository in https://github.com/tzutalin/labelImg that does the following:
+## This is a modofication of the repository in\
+https://github.com/tzutalin/labelImg \ 
+that does the following:
 
 1 - It assumes one box per image. Image can have multiple objects but you want to annotate one type of objects. Say you are
 interested in annotating cats first, and then dogs, etc. 
